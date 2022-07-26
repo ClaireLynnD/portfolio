@@ -1,0 +1,26 @@
+body {
+    background-image: url("./images/bg\ endsky.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+
+#first-card-title {
+    margin-top: 22%;
+}
+
+#first-card {
+    border: 0px !important;
+    border-radius: 0px !important;
+}
+
+.card-img {
+    border: 0px;
+    border-radius: 0px !important;
+}
+
+#about {
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
